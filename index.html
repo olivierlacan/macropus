@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Macropus</title>
+  <script type="text/javascript">
+    function createListItem(tag) {
+      var tagList = document.querySelector(".tag-list");
+      var listElement = document.createElement("li");
+      listElement.innerHTML = "<span>" + tag.name + "</span>"
+      var image = document.createElement("img");
+      image.src = tag.image_url;
+      image.width = 100;
+      listElement.appendChild(image);
+      tagList.appendChild(listElement);
+    };
+
+    function processData(csv) {
+      var csv = csv.split('\n').slice(0, -1);
+      var tagsArray = [];
+      var headers = csv[0].split(',');
+
+      for(var i = 1; i < csv.length; i++) {
+        var data = csv[i].split(',');
+        var object = {};
+        for(var j = 0; j < data.length; j++) {
+           object[headers[j].trim()] = data[j].trim();
+        }
+        tagsArray.push(object);
+      }
+
+      // JSON.stringify(tagsArray);
+      for (const tag of tagsArray) {
+        createListItem(tag);
+      }
+    }
+
+    window.addEventListener('DOMContentLoaded', (event) => {
+      fetch("https://raw.githubusercontent.com/olivierlacan/macropus/main/tag_categories.csv")
+        .then(response => response.text())
+        .then(text => processData(text));
+    });
+  </script>
+
+  <style type="text/css">
+    body {
+      font-family: sans-serif;
+    }
+
+    .tag-list {
+      list-style: none;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: space-evenly;
+    }
+
+    .tag-list li {
+      width: 100px;
+      height: 180px;
+      margin: auto;
+      text-align: center;
+    }
+
+    .tag-list span {
+      display: block;
+      height: 2.3rem;
+    }
+
+    .tag-list img {
+      width: 100px;
+      filter: invert(100%);
+    }
+
+  </style>
+</head>
+<body>
+  <h1>Macropus</h1>
+  <ul class="tag-list"></ul>
+</body>
+</html>
