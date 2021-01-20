@@ -1,5 +1,5 @@
 id,name,image_url,created_at
-18f3f9d6-e260-414e-9e2f-9bf16268bc9f,Zoo,https://world.gowalla.com/tags/zoo--x128.pnga,2020-11-13T23:59:15.789Z
+18f3f9d6-e260-414e-9e2f-9bf16268bc9f,Zoo,https://world.gowalla.com/tags/zoo--x128.png,2020-11-13T23:59:15.789Z
 ee9bf48c-a9f3-44cd-80e2-331033a6bb1f,Afghan Food,https://world.gowalla.com/tags/afghan_food--x128.png,2020-11-13T23:59:15.789Z
 c49bf871-a5d2-4eb1-bdd1-1b8bd78904f6,Airport,,2020-11-13T23:59:15.789Z
 fa5d41fb-ecff-4130-a8d3-cb0acdd1bc67,Airport Gate,,2020-11-13T23:59:15.789Z
@@ -8,6 +8,35 @@ d462e93e-f8db-464b-b13f-8c8344aa73aa,Airport Lounge,,2020-11-13T23:59:15.789Z
 391e7cec-47e7-4070-acf7-6076a8529193,Airport Tram,,2020-11-13T23:59:15.789Z
 458449d2-582e-4c7a-bd55-5e5ca34a1734,American Food,https://world.gowalla.com/tags/american_food--x128.png,2020-11-13T23:59:15.789Z
 a32c684a-d580-49e0-b1fb-2b870beb1ca3,Amphitheater,https://world.gowalla.com/tags/amphitheater--x128.png,2020-11-13T23:59:15.789Z
+690392a7-cb64-47a8-b87a-7801322cffe8,Syrian Food,https://world.gowalla.com/tags/syrian_food--x128.png,2020-11-13T23:59:15.789Z
+bd1ac80c-a59f-4750-b75e-7d215b48bb61,Tacos,https://world.gowalla.com/tags/tacos_1--x128.png,2020-11-13T23:59:15.789Z
+3a3f01d8-6a4d-4ac4-88b0-cf5189d6d486,Taiwanese Food,https://world.gowalla.com/tags/taiwanese_food--x128.png,2020-11-13T23:59:15.789Z
+fb0ab266-eb88-4a87-94d5-0be3d5adda86,Tanning Salon,,2020-11-13T23:59:15.789Z
+e3f6759a-7224-473a-b9d9-f23953d967fa,Tattoo Parlor,,2020-11-13T23:59:15.789Z
+afd6de2a-a531-4c74-a791-086abb4868de,Tea Room,https://world.gowalla.com/tags/tea_room--x128.png,2020-11-13T23:59:15.789Z
+28642acf-be57-4ef5-bff0-36743397dee8,Temple,https://world.gowalla.com/tags/temple--x128.png,2020-11-13T23:59:15.789Z
+4d9d9481-6e81-4f3a-adf9-23133503fc03,Tennis Court,https://world.gowalla.com/tags/tennis_court--x128.png,2020-11-13T23:59:15.789Z
+de933f11-5156-49b9-93b5-a14e35a8816a,Tennis Stadium,https://world.gowalla.com/tags/tennis_stadium--x128.png,2020-11-13T23:59:15.789Z
+dee8ebc7-b4d7-4f97-9640-59fa4885dc90,Tequila Bar,https://world.gowalla.com/tags/tequila_bar--x128.png,2020-11-13T23:59:15.789Z
+7acb4362-eaa3-41dc-824a-ebdd97358662,Terrain Park,https://world.gowalla.com/tags/terrain_park--x128.png,2020-11-13T23:59:15.789Z
+f44b326e-3753-4028-ab82-4a46deca3c85,Tex-Mex,https://world.gowalla.com/tags/tex_mex--x128.png,2020-11-13T23:59:15.789Z
+e106d303-c4b1-4e5b-b76d-0a799a65ca50,Thai Food,https://world.gowalla.com/tags/thai_food--x128.png,2020-11-13T23:59:15.789Z
+2d81c678-3a2a-4fc1-8219-e41845545b9e,Theatre,https://world.gowalla.com/tags/theatre--x128.png,2020-11-13T23:59:15.789Z
+dd31f5cb-53d8-4c2e-8b33-e71b07daecf7,Theme Park,https://world.gowalla.com/tags/theme_park--x128.png,2020-11-13T23:59:15.789Z
+5c7f605c-b701-4e18-b21f-ef2bcf852d64,Thrift Shop,,2020-11-13T23:59:15.789Z
+5d03e7f5-9aa7-4fd5-8c23-77b33ec81378,Tibetan Food,https://world.gowalla.com/tags/tibetan_food--x128.png,2020-11-13T23:59:15.789Z
+01bbec61-a253-4744-8eb7-100f4cb48728,Tiki Bar,https://world.gowalla.com/tags/tiki_bar_1--x128.png,2020-11-13T23:59:15.789Z
+6641f4eb-f010-46b6-819f-f92f07cf9749,Toll Booth,,2020-11-13T23:59:15.789Z
+0aa7cd8e-d55e-4688-97dc-5eaa4a089ddc,Tour Guide,,2020-11-13T23:59:15.789Z
+63fc1dfc-ec46-44f2-857a-bd24b97967a6,Town,https://world.gowalla.com/tags/town--x128.png,2020-11-13T23:59:15.789Z
+caf7fdf8-2b9b-4376-b769-aaf49df28200,Town Hall,https://world.gowalla.com/tags/town_hall--x128.png,2020-11-13T23:59:15.789Z
+5aef6bf4-645b-4f2f-82d1-d5860c6ce88c,Toy Store,,2020-11-13T23:59:15.789Z
+90f3b539-9766-4cb3-813d-e91800da46bb,Track Stadium,https://world.gowalla.com/tags/track_stadium--x128.png,2020-11-13T23:59:15.789Z
+2c7903df-83a5-4d0e-843c-2d474f7ebed5,Trade School,,2020-11-13T23:59:15.789Z
+b55b4183-46c3-49ea-89a1-f68dc1a2ec7a,Trail,https://world.gowalla.com/tags/trail--x128.png,2020-11-13T23:59:15.789Z
+7583bc5c-ca19-4265-95dd-c38e4b470de8,Train Station,,2020-11-13T23:59:15.789Z
+dbeab653-f5e1-481d-83c5-520c3060721d,Tram Station,,2020-11-13T23:59:15.789Z
+3256cf74-f3ef-430e-830e-823659a21bdc,Tree,https://world.gowalla.com/tags/tree--x128.png,2020-11-13T23:59:15.789Z
 4efc3906-e285-4a28-a324-777cd198fe51,Truck Stop,https://world.gowalla.com/tags/truck_stop--x128.png,2020-11-13T23:59:15.789Z
 0f245659-0031-4940-a4fd-bb900d50901b,Tunnel,,2020-11-13T23:59:15.789Z
 f1451b0c-96a7-4098-971a-948865fa951e,University,https://world.gowalla.com/tags/university--x128.png,2020-11-13T23:59:15.789Z
@@ -342,35 +371,6 @@ ec302532-4e1f-4cda-90b6-d29ef41f65ab,Surf Shop,,2020-11-13T23:59:15.789Z
 a1395feb-0c63-45bf-951e-1160b5aae133,Sushi Place,https://world.gowalla.com/tags/sushi_plac--x128.png,2020-11-13T23:59:15.789Z
 0ef8b52e-2454-4ea9-a6bc-04e20fc69142,Swim School,,2020-11-13T23:59:15.789Z
 0f7f3454-8833-497d-b8a1-c3460a3e1062,Synagogue,,2020-11-13T23:59:15.789Z
-690392a7-cb64-47a8-b87a-7801322cffe8,Syrian Food,https://world.gowalla.com/tags/syrian_food--x128.png,2020-11-13T23:59:15.789Z
-bd1ac80c-a59f-4750-b75e-7d215b48bb61,Tacos,https://world.gowalla.com/tags/tacos_1--x128.png,2020-11-13T23:59:15.789Z
-3a3f01d8-6a4d-4ac4-88b0-cf5189d6d486,Taiwanese Food,https://world.gowalla.com/tags/taiwanese_food--x128.png,2020-11-13T23:59:15.789Z
-fb0ab266-eb88-4a87-94d5-0be3d5adda86,Tanning Salon,,2020-11-13T23:59:15.789Z
-e3f6759a-7224-473a-b9d9-f23953d967fa,Tattoo Parlor,,2020-11-13T23:59:15.789Z
-afd6de2a-a531-4c74-a791-086abb4868de,Tea Room,https://world.gowalla.com/tags/tea_room--x128.png,2020-11-13T23:59:15.789Z
-28642acf-be57-4ef5-bff0-36743397dee8,Temple,https://world.gowalla.com/tags/temple--x128.png,2020-11-13T23:59:15.789Z
-4d9d9481-6e81-4f3a-adf9-23133503fc03,Tennis Court,https://world.gowalla.com/tags/tennis_court--x128.png,2020-11-13T23:59:15.789Z
-de933f11-5156-49b9-93b5-a14e35a8816a,Tennis Stadium,https://world.gowalla.com/tags/tennis_stadium--x128.png,2020-11-13T23:59:15.789Z
-dee8ebc7-b4d7-4f97-9640-59fa4885dc90,Tequila Bar,https://world.gowalla.com/tags/tequila_bar--x128.png,2020-11-13T23:59:15.789Z
-7acb4362-eaa3-41dc-824a-ebdd97358662,Terrain Park,https://world.gowalla.com/tags/terrain_park--x128.png,2020-11-13T23:59:15.789Z
-f44b326e-3753-4028-ab82-4a46deca3c85,Tex-Mex,https://world.gowalla.com/tags/tex_mex--x128.png,2020-11-13T23:59:15.789Z
-e106d303-c4b1-4e5b-b76d-0a799a65ca50,Thai Food,https://world.gowalla.com/tags/thai_food--x128.png,2020-11-13T23:59:15.789Z
-2d81c678-3a2a-4fc1-8219-e41845545b9e,Theatre,https://world.gowalla.com/tags/theatre--x128.png,2020-11-13T23:59:15.789Z
-dd31f5cb-53d8-4c2e-8b33-e71b07daecf7,Theme Park,https://world.gowalla.com/tags/theme_park--x128.png,2020-11-13T23:59:15.789Z
-5c7f605c-b701-4e18-b21f-ef2bcf852d64,Thrift Shop,,2020-11-13T23:59:15.789Z
-5d03e7f5-9aa7-4fd5-8c23-77b33ec81378,Tibetan Food,https://world.gowalla.com/tags/tibetan_food--x128.png,2020-11-13T23:59:15.789Z
-01bbec61-a253-4744-8eb7-100f4cb48728,Tiki Bar,https://world.gowalla.com/tags/tiki_bar_1--x128.png,2020-11-13T23:59:15.789Z
-6641f4eb-f010-46b6-819f-f92f07cf9749,Toll Booth,,2020-11-13T23:59:15.789Z
-0aa7cd8e-d55e-4688-97dc-5eaa4a089ddc,Tour Guide,,2020-11-13T23:59:15.789Z
-63fc1dfc-ec46-44f2-857a-bd24b97967a6,Town,https://world.gowalla.com/tags/town--x128.png,2020-11-13T23:59:15.789Z
-caf7fdf8-2b9b-4376-b769-aaf49df28200,Town Hall,https://world.gowalla.com/tags/town_hall--x128.png,2020-11-13T23:59:15.789Z
-5aef6bf4-645b-4f2f-82d1-d5860c6ce88c,Toy Store,,2020-11-13T23:59:15.789Z
-90f3b539-9766-4cb3-813d-e91800da46bb,Track Stadium,https://world.gowalla.com/tags/track_stadium--x128.png,2020-11-13T23:59:15.789Z
-2c7903df-83a5-4d0e-843c-2d474f7ebed5,Trade School,,2020-11-13T23:59:15.789Z
-b55b4183-46c3-49ea-89a1-f68dc1a2ec7a,Trail,https://world.gowalla.com/tags/trail--x128.png,2020-11-13T23:59:15.789Z
-7583bc5c-ca19-4265-95dd-c38e4b470de8,Train Station,,2020-11-13T23:59:15.789Z
-dbeab653-f5e1-481d-83c5-520c3060721d,Tram Station,,2020-11-13T23:59:15.789Z
-3256cf74-f3ef-430e-830e-823659a21bdc,Tree,https://world.gowalla.com/tags/tree--x128.png,2020-11-13T23:59:15.789Z
 37e379b6-fa2d-4f6e-859b-0816d4ff1918,Arena,,2020-12-09T23:56:59.216Z
 f471496f-0795-48c3-a3f3-a4b241e57544,Ice Cream,,2020-12-10T00:01:04.577Z
 f8298287-85de-4993-8bef-e1b8a6c7dc39,Frozen Yogurt,,2020-12-10T00:01:28.642Z
@@ -394,3 +394,32 @@ b332e4ff-5e14-48f8-b115-ae00f6e88881,Spa,,2021-01-16T20:29:15.416Z
 bb72000f-2901-4c73-8f48-19f8d3df4102,Antiques,,2021-01-17T02:39:04.531Z
 21ad3ad0-d99e-416c-b788-bea5d53d73ab,Hospital,,2021-01-17T06:27:41.388Z
 03728729-9a6d-46e5-a43f-0779aa36b516,Winery,,2021-01-17T06:29:53.181Z
+0041c1fb-e5f8-4ee8-a333-aefa74fcbcdb,Wind Farm,,2021-01-20T05:31:06.070Z
+0ddd236f-5e4e-4861-a4e9-369f334ac8ee,Wetlands,,2021-01-20T05:31:29.839Z
+95ce72bc-75a6-4391-a09f-b781a33cb4d9,Wedding Venue,,2021-01-20T05:32:29.595Z
+a7c3134f-ae1c-4cae-b2c9-25221ac9bee2,Vegetable Garden,,2021-01-20T05:32:47.654Z
+c6aede14-8712-4e93-b30c-be12cd945fb7,Tearoom,,2021-01-20T05:33:42.795Z
+648f25a6-5816-4d65-9e93-3d0e9566e4b0,Tapas,,2021-01-20T05:33:56.320Z
+d11634c9-9aab-4d9b-8e30-f77636f1534e,Suspension Bridge,,2021-01-20T05:34:15.593Z
+ca196439-4b62-4c7f-8c50-71bd40961734,Succulents,,2021-01-20T05:34:31.988Z
+264a4a7d-95f0-4489-bd65-59ac71bc9b78,Salon,,2021-01-20T05:35:50.691Z
+e30ef53e-93fa-41cf-9fdc-f7c6400466e2,Ruins,,2021-01-20T05:36:16.390Z
+78e111fd-fec0-451d-a084-f82afe0e5ed8,Public pool,,2021-01-20T05:36:52.133Z
+d481d620-4bb3-4276-8990-580152062968,Barber,,2021-01-20T05:37:23.921Z
+982d5c40-30e0-4473-9e9f-a01dc77e4940,Bodega,,2021-01-20T05:37:46.898Z
+70dc4c35-16ee-44b9-899f-412f3cff9cc6,Brunch,,2021-01-20T05:38:09.660Z
+eac68604-f5c8-4aeb-8c93-8099f55f6512,Cliff,,2021-01-20T05:38:36.691Z
+d974311e-4435-413c-bb4d-6a99584da7e1,Creek,,2021-01-20T05:38:59.153Z
+f3292884-a9f7-4b3d-b049-156b1abd8886,Farm to Table,,2021-01-20T05:39:30.047Z
+96d02c31-ddd2-426c-9db9-1152d8221d62,Gay Bar,,2021-01-20T05:39:54.921Z
+bad20bc3-f0f5-406e-9a00-cc09b104abd4,Greenhouse,,2021-01-20T05:40:23.078Z
+f1a9fd0b-2afc-412e-9f77-bec8a0bab145,Pond,,2021-01-20T05:43:06.643Z
+e428fc13-07d6-42fe-b7e0-fe4d32bad8bf,Oyster Bar,,2021-01-20T05:43:45.343Z
+fe282b91-ba89-4fe6-b016-8f3021133c7a,New Mexican Food,,2021-01-20T05:44:30.032Z
+1b08557d-e38d-4417-829c-bfa62d99fcb5,Nursery,,2021-01-20T05:45:51.624Z
+d7c0ba3f-2b9b-4734-903e-dd8bbbbe5eaf,Memorial,,2021-01-20T05:46:14.044Z
+f484b6d3-21fc-428a-881a-725d0d3f64bc,Jewish Bakery,,2021-01-20T05:46:39.201Z
+ed7db3ae-468d-463b-b229-a66135262f83,Halal Food,,2021-01-20T05:47:33.555Z
+01f6b94b-c470-4106-8d74-583c5dfbe70b,German Food,,2021-01-20T05:48:02.982Z
+cdffa16f-117d-4636-a963-ef8f6be5fe99,Flower Garden,,2021-01-20T05:48:32.314Z
+be288e85-d80e-4da2-9b2a-87c5004bfd29,Dumplings,,2021-01-20T05:48:52.282Z
