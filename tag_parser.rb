@@ -34,7 +34,7 @@ end
 CSV.open("tag_activities.csv", "w", headers: true) do |csv|
   csv << ["id", "name", "image_url", "created_at"]
 
-  activities.sort_by{ _1["createdAt"] }.each do |tag|
+  activities.sort_by{ [_1["createdAt"], _1["name"]] }.each do |tag|
     image_url = tag["imageAsset"] && tag["imageAsset"]["url"]
     download_image(image_url, "activities") unless File.exist?("tags/activities/#{filename(image_url)}")
 
@@ -45,7 +45,7 @@ end
 CSV.open("tag_categories.csv", "w", headers: true) do |csv|
   csv << ["id", "name", "image_url", "created_at"]
 
-  categories.sort_by{ _1["createdAt"] }.each do |tag|
+  categories.sort_by{ [_1["createdAt"], _1["name"]] }.each do |tag|
     image_url = tag["imageAsset"] && tag["imageAsset"]["url"]
     download_image(image_url, "categories") unless File.exist?("tags/categories/#{filename(image_url)}")
 
